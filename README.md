@@ -67,6 +67,31 @@ Tiger IPTV can be installed on most Android-based devices, including:
 * Fire TV Cube
 * Other devices that support Android APK installation
 
+
+## Future Features
+
+The following features may be added in future versions of Tiger IPTV:
+
+* EPG / TV guide support.
+* Catch-up TV support, if provided by the playlist.
+* Parental control options.
+* Playlist import from local M3U files.
+* Playlist backup and restore.
+* Channel sorting options.
+* Custom channel groups.
+* More video player settings.
+* Better support for remote control navigation.
+* Picture-in-picture mode, if supported by the device.
+* Dark and light theme options.
+* Automatic playlist refresh.
+* Improved stream error messages.
+* Option to clear favourites and recent channels.
+* Support for more playlist formats.
+* App update notifications.
+
+These features are planned ideas only and may depend on device support, playlist support, and future development.
+
+
 ## Notes
 
 Some channels may not play if the stream is offline, blocked, expired, or not supported by your device.
@@ -78,4 +103,6 @@ If your playlist does not load, check that the M3U URL is correct and active.
 Tiger IPTV is only a media player.
 
 It does not provide, host, sell, or promote any IPTV content. Users are responsible for using their own legal playlist sources.
+
+
 
